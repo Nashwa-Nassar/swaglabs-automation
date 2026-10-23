@@ -1,0 +1,25 @@
+{
+  "validUser": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "invalidUser": {
+    "username": "wrong_user",
+    "password": "wrong_password"
+  },
+  "noPassword": {
+    "username": "standard_user",
+    "password": ""
+  },
+  "cartProducts": [
+    "Sauce Labs Backpack",
+    "Sauce Labs Bolt T-Shirt",
+    "Sauce Labs Onesie"
+  ],
+  "productToRemove": "Sauce Labs Bolt T-Shirt",
+  "checkoutInfo": {
+    "firstName": "Nashwa",
+    "lastName": "Nassar",
+    "postalCode": "12345"
+  }
+}
